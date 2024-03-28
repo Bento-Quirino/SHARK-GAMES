@@ -1,0 +1,3 @@
+Protótipo do cenário:
+Modelar objetos e obstáculos gerais do cenário, e montá-lo, de acordo com as propostas elaboradas anteriormente por cada grupo.
+Prazo: 04/04
