@@ -1,0 +1,14 @@
+Implemente as particulas de disparo e impacto da bala.
+Para tal, utilize as texturas (sugerdias como autorais) solicitadas juntamente com o sistema de partículas do Unity.
+Seguem dois tutoriais:
+
+https://www.youtube.com/watch?v=_NjErIEp9tU
+https://www.youtube.com/watch?v=rf7gHVixmmc
+
+Tenha em mente que, apesar da lógica de movimento das partículas, 
+o efeito de disparo é diferente do efeito de impacto, 
+pense em mudanças para ajustar cada um melhor ao seu propósito.
+
+Envie o arquivo .unitypackage contendo as duas partículas em cena para
+marcos.prof.cps@bentoquirino.com.br, asusnto "Av. Mensal 2º Bim Shark".
+Data: 23/05.
