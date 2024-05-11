@@ -1,0 +1,6 @@
+Produza os assets necessários e monte as telas e menus do jogo.
+O trabalho consiste em uma tela título, tela principal com botoes e oções, e a tela de gameover.
+
+Enviar o .unitypackge contendo as telas feitos em cenas separadas do Unity
+para marcos.prof.cps@bentoquirino.com.br, assunto "AV Bim. 2º Shark".
+Data: 30/05.
